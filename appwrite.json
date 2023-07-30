@@ -1,0 +1,21 @@
+{
+    "projectId": "64c68f4f3aa4730cdd78",
+    "projectName": "total",
+    "functions": [
+        {
+            "$id": "64c69047a758f10ca03c",
+            "name": "google",
+            "runtime": "node-18.0",
+            "path": "functions/google",
+            "entrypoint": "src/index.js",
+            "ignore": [
+                "node_modules",
+                ".npm"
+            ],
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        }
+    ]
+}
